@@ -1064,7 +1064,7 @@
         "y": 5
       },
       "startTime": "0:00",
-      "endTime": "1:55",
+      "endTime": "2:00",
       "itemIds": ["81"]
     },
     {
@@ -1082,7 +1082,7 @@
         "y": 5
       },
       "startTime": "12:00",
-      "endTime": "13:55",
+      "endTime": "14:00",
       "itemIds": ["81"]
     },
     {
@@ -4003,7 +4003,7 @@
       "teleportDe": "Jobb-Feste",
       "position": "unknown",
       "startTime": "8:00",
-      "endTime": "11:55",
+      "endTime": "12:00",
       "itemIds": ["212"]
     },
     {
@@ -4690,7 +4690,7 @@
         "y": 26.4
       },
       "startTime": "6:00",
-      "endTime": "7:00",
+      "endTime": "8:00",
       "itemIds": ["rarefied-raw-azurite", "rarefied-silvergrace-ore"]
     },
     {
@@ -4708,7 +4708,7 @@
         "y": 26.4
       },
       "startTime": "18:00",
-      "endTime": "19:00",
+      "endTime": "20:00",
       "itemIds": ["rarefied-raw-azurite", "rarefied-silvergrace-ore"]
     },
     {
@@ -4726,7 +4726,7 @@
         "y": 12.9
       },
       "startTime": "8:00",
-      "endTime": "9:00",
+      "endTime": "10:00",
       "itemIds": ["rarefied-raw-kyanite", "rarefied-raw-triphane"]
     },
     {
@@ -4744,7 +4744,7 @@
         "y": 12.9
       },
       "startTime": "20:00",
-      "endTime": "21:00",
+      "endTime": "22:00",
       "itemIds": ["rarefied-raw-kyanite", "rarefied-raw-triphane"]
     },
     {
@@ -4762,7 +4762,7 @@
         "y": 18.1
       },
       "startTime": "6:00",
-      "endTime": "7:00",
+      "endTime": "8:00",
       "itemIds": ["rarefied-raw-lazurite"]
     },
     {
@@ -4780,7 +4780,7 @@
         "y": 18.1
       },
       "startTime": "18:00",
-      "endTime": "19:00",
+      "endTime": "22:00",
       "itemIds": ["rarefied-raw-lazurite"]
     },
     {
@@ -4798,7 +4798,7 @@
         "y": 4.4
       },
       "startTime": "8:00",
-      "endTime": "9:00",
+      "endTime": "10:00",
       "itemIds": ["rarefied-raw-onyx", "rarefied-sea-salt"]
     },
     {
@@ -4816,7 +4816,7 @@
         "y": 4.4
       },
       "startTime": "20:00",
-      "endTime": "21:00",
+      "endTime": "22:00",
       "itemIds": ["rarefied-raw-onyx", "rarefied-sea-salt"]
     },
     {
@@ -4834,7 +4834,7 @@
         "y": 26.4
       },
       "startTime": "4:00",
-      "endTime": "5:00",
+      "endTime": "6:00",
       "itemIds": ["rarefied-raw-petalite", "rarefied-titancopper-ore"]
     },
     {
@@ -4852,7 +4852,7 @@
         "y": 26.4
       },
       "startTime": "16:00",
-      "endTime": "17:00",
+      "endTime": "18:00",
       "itemIds": ["rarefied-raw-petalite", "rarefied-titancopper-ore"]
     },
     {
@@ -4870,7 +4870,7 @@
         "y": 34.3
       },
       "startTime": "10:00",
-      "endTime": "11:00",
+      "endTime": "12:00",
       "itemIds": ["rarefied-raw-star-spinel"]
     },
     {
@@ -4888,7 +4888,7 @@
         "y": 34.3
       },
       "startTime": "22:00",
-      "endTime": "23:00",
+      "endTime": "0:00",
       "itemIds": ["rarefied-raw-star-spinel"]
     },
     {
